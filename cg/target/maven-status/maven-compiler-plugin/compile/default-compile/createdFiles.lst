@@ -1,0 +1,5 @@
+com\example\ch\cg\CgApplication.class
+com\example\ch\cg\service\CsvReaderService.class
+com\example\ch\cg\controller\CsvController.class
+com\example\ch\cg\repository\CsvDataRepository.class
+com\example\ch\cg\entity\CsvData.class
